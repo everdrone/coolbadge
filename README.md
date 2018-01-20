@@ -12,6 +12,9 @@ add a link to your repo's `README.md`
 
 ### Paypal
 
+<img height="32" src="./badges/Paypal/Beer/Dark/Big.png">  
+<img height="32" src="./badges/Paypal/Beer/Dark/Short.png">  
+
 <img height="32" src="./badges/Paypal/Beer/Blue/Big.png">  
 <img height="32" src="./badges/Paypal/Beer/Blue/Small.png">  
 <img height="32" src="./badges/Paypal/Beer/Blue/Short.png">  
@@ -21,6 +24,9 @@ add a link to your repo's `README.md`
 <img height="32" src="./badges/Paypal/Beer/White/Small.png">  
 <img height="32" src="./badges/Paypal/Beer/White/Short.png">  
 <img height="32" src="./badges/Paypal/Beer/White/Tiny.png">  
+
+<img height="32" src="./badges/Paypal/Coffee/Dark/Big.png">  
+<img height="32" src="./badges/Paypal/Coffee/Dark/Short.png">  
   
 <img height="32" src="./badges/Paypal/Coffee/Blue/Big.png">  
 <img height="32" src="./badges/Paypal/Coffee/Blue/Small.png">  
@@ -31,3 +37,5 @@ add a link to your repo's `README.md`
 <img height="32" src="./badges/Paypal/Coffee/White/Small.png">  
 <img height="32" src="./badges/Paypal/Coffee/White/Short.png">  
 <img height="32" src="./badges/Paypal/Coffee/White/Tiny.png">
+
+## Requests
