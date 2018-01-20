@@ -39,3 +39,5 @@ add a link to your repo's `README.md`
 <img height="32" src="./badges/Paypal/Coffee/White/Tiny.png">
 
 ## Requests
+
+just submit an issue with a feature request and i'll get in touch ASAP.
